@@ -1,0 +1,15 @@
+/* With Linear gradient */
+.full-linear {
+  background: var(--gradient-linear);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+/* With Radial gradient */
+
+.full-radial {
+  background: var(--gradient-radial);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

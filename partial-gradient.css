@@ -1,0 +1,42 @@
+
+/* Style one starts */
+.partial-linear-one {
+  background: var(--gradient-linear);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.partial-one > span {
+  background: var(--white);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.partial-radial-one {
+  background: var(--gradient-radial);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Style one ends */
+
+/* Style two starts */
+
+.partial-two {
+  color: var(--white);
+}
+
+.partial-linear-two > span {
+  background: var(--gradient-linear);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+.partial-radial-two > span {
+  background: var(--gradient-radial);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/* Style two ends */

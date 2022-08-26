@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 :root {
-  --gradient-linear: linear-gradient(90deg, #b2ff42 0%, #0d8773 100%);
+  --gradient-linear: linear-gradient(90deg, #b2ff42 20%, #0d8773 100%);
   --gradient-radial: radial-gradient(#b2ff42 20%, #0d8773 100%);
   --white: #ffffff;
 }
